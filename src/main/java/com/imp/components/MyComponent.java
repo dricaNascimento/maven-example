@@ -6,6 +6,6 @@ public class MyComponent {
 		
 		int  sum = 2 + 2;
 		
-		return "sum";
+		return sum;
 	}
 }
