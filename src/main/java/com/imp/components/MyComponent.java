@@ -4,7 +4,8 @@ public class MyComponent {
 	
 	public int doCalculate(){
 		
+		int  sum = 2 + 2;
 		
-		return 2 + 2;
+		return sum;
 	}
 }
